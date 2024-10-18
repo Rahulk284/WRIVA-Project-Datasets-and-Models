@@ -1,6 +1,8 @@
 # WRIVA-Project-Datasets-and-Models
 ****Datasets and Models used for artifact segmentation****
 
+The folders in this repo contain individual models for artifact detection in images. These artifacts include rain, soil, and finger-in-lense
+
 Google Drive link containing Datasets, Models, and Annotations: https://drive.google.com/drive/folders/1_Ly1mvAFTeg6gQ2fiQH5AyigZ8hG34Wz?usp=drive_link
 
 The Google Drive link contains individual folders for the rain, soil, and finger-in-lense datasets. These folders all contain the annotations and working models created for each dataset.
