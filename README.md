@@ -1,5 +1,5 @@
 # WRIVA-Project-Datasets-and-Models
-Datasets and Models used for artifact segmentation.
+**Datasets and Models used for artifact segmentation.**
 
 Google Drive link for Datasets, Models, and Annotations: https://drive.google.com/drive/folders/1_Ly1mvAFTeg6gQ2fiQH5AyigZ8hG34Wz?usp=drive_link
 
